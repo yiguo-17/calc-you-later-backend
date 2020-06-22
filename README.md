@@ -11,5 +11,5 @@ This is a test-driven app. You'll do all of your work in `calculate-back-end.js`
 
 ### Tips and Tricks
 
-* `if/else` chains and `switch` are good ways to check which operation you were passed. But there are other ways to do it as well!
 * Note that the numbers are being passed in as strings, but the return value should be in numbers. What's more, some of the math may be funky if you try to do the math while they're still strings. Be sure to look into how to convert a string to a number in JavaScript!
+* `if/else` chains and `switch` are good ways to check which operation you were passed. But there are other ways to do it as well!
